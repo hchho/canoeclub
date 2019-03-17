@@ -20,7 +20,7 @@ const AppHeader = () => (
 
 const App = () => (
   <AppWrapper>
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <AppHeader />
         <Route exact path="/" component={TimeTable} />
