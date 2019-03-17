@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/canoeclub/precache-manifest.d7127f2dd51fd6b100132305f8055011.js"
+  "/canoeclub/precache-manifest.83526f13f92190a53761cf3fd2a2c80c.js"
 );
 
 workbox.clientsClaim();

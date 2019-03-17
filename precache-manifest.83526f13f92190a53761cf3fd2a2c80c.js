@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/canoeclub/static/js/runtime~main.2d15526e.js"
   },
   {
-    "revision": "5af0fbb4be19312bdf24",
-    "url": "/canoeclub/static/js/main.692dfd22.chunk.js"
+    "revision": "c5c9e8af9c2f3201d880",
+    "url": "/canoeclub/static/js/main.8d6573c8.chunk.js"
   },
   {
     "revision": "b8417ed9efb2134fafcd",
     "url": "/canoeclub/static/js/2.c35388e8.chunk.js"
   },
   {
-    "revision": "5af0fbb4be19312bdf24",
+    "revision": "c5c9e8af9c2f3201d880",
     "url": "/canoeclub/static/css/main.dd3136e2.chunk.css"
   },
   {
-    "revision": "9529fd7292cbd9d66f61073ac9cbb2f8",
+    "revision": "4d7857e793cb73a5e42371b50125247d",
     "url": "/canoeclub/index.html"
   }
 ];
